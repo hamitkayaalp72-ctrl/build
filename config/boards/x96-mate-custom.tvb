@@ -1,0 +1,9 @@
+# Custom configuration for H616 TV box
+BOARD_NAME="Custom H616 TV Box"
+BOARD_VENDOR="allwinner"
+BOARDFAMILY="sun50iw9"
+BOARD_MAINTAINER="Custom"
+INTRODUCED="2020"
+BOOTCONFIG="x96_mate_defconfig"
+KERNEL_TARGET="current"
+OVERLAY_PREFIX="sun50i-h616"
